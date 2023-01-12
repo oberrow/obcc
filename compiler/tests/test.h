@@ -1,0 +1,1 @@
+#define TEST_MACRO "\nTest of include files"
